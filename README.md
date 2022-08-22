@@ -2,4 +2,4 @@
 Learning swiftui. Implementing some UI components
 
 ## Slide button template
-![](./template_slide_button.gif)
+<img src='./template_slide_button.gif'>
