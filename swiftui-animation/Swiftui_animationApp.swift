@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct swiftui_animationApp: App {
+struct Swiftui_animationApp: App {
     var body: some Scene {
         WindowGroup {
-          SlideButton()
+          BreathEffectView()
         }
     }
 }
