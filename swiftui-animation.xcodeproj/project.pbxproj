@@ -12,7 +12,8 @@
 		1D9759A628B2F9D4007171B9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D9759A528B2F9D4007171B9 /* Preview Assets.xcassets */; };
 		1D9759AD28B2F9FC007171B9 /* SlideButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9759AC28B2F9FB007171B9 /* SlideButton.swift */; };
 		1D9B9F672918A3F700744BDB /* BreathEffectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B9F662918A3F700744BDB /* BreathEffectView.swift */; };
-		1D9B9F692918F6A300744BDB /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B9F682918F6A300744BDB /* TestView.swift */; };
+		1D9B9F692918F6A300744BDB /* GalaxyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B9F682918F6A300744BDB /* GalaxyView.swift */; };
+		1D9B9F6B291CD73800744BDB /* FadePreview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B9F6A291CD73800744BDB /* FadePreview.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,7 +23,8 @@
 		1D9759A528B2F9D4007171B9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1D9759AC28B2F9FB007171B9 /* SlideButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SlideButton.swift; sourceTree = "<group>"; };
 		1D9B9F662918A3F700744BDB /* BreathEffectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreathEffectView.swift; sourceTree = "<group>"; };
-		1D9B9F682918F6A300744BDB /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
+		1D9B9F682918F6A300744BDB /* GalaxyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalaxyView.swift; sourceTree = "<group>"; };
+		1D9B9F6A291CD73800744BDB /* FadePreview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FadePreview.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,9 +60,10 @@
 				1D9759AC28B2F9FB007171B9 /* SlideButton.swift */,
 				1D9B9F662918A3F700744BDB /* BreathEffectView.swift */,
 				1D97599E28B2F9D4007171B9 /* Swiftui_animationApp.swift */,
+				1D9B9F6A291CD73800744BDB /* FadePreview.swift */,
+				1D9B9F682918F6A300744BDB /* GalaxyView.swift */,
 				1D9759A228B2F9D4007171B9 /* Assets.xcassets */,
 				1D9759A428B2F9D4007171B9 /* Preview Content */,
-				1D9B9F682918F6A300744BDB /* TestView.swift */,
 			);
 			path = "swiftui-animation";
 			sourceTree = "<group>";
@@ -143,9 +146,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1D9B9F692918F6A300744BDB /* TestView.swift in Sources */,
+				1D9B9F692918F6A300744BDB /* GalaxyView.swift in Sources */,
 				1D97599F28B2F9D4007171B9 /* Swiftui_animationApp.swift in Sources */,
 				1D9759AD28B2F9FC007171B9 /* SlideButton.swift in Sources */,
+				1D9B9F6B291CD73800744BDB /* FadePreview.swift in Sources */,
 				1D9B9F672918A3F700744BDB /* BreathEffectView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
