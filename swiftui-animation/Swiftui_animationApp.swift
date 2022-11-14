@@ -11,7 +11,7 @@ import SwiftUI
 struct Swiftui_animationApp: App {
     var body: some Scene {
         WindowGroup {
-          BreathEffectView()
+          FadePreview()
         }
     }
 }
