@@ -49,7 +49,6 @@ struct FadePreview: View {
       
     }
     .frame(width: 150, height: 150)
-    .background(Color.black)
     .onAppear {
       
       shouldAnimate.toggle()

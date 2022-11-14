@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1D27A0422921F3ED00443893 /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D27A0412921F3ED00443893 /* PageView.swift */; };
 		1D97599F28B2F9D4007171B9 /* Swiftui_animationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D97599E28B2F9D4007171B9 /* Swiftui_animationApp.swift */; };
 		1D9759A328B2F9D4007171B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D9759A228B2F9D4007171B9 /* Assets.xcassets */; };
 		1D9759A628B2F9D4007171B9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D9759A528B2F9D4007171B9 /* Preview Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1D27A0412921F3ED00443893 /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
 		1D97599B28B2F9D4007171B9 /* swiftui-animation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swiftui-animation.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D97599E28B2F9D4007171B9 /* Swiftui_animationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swiftui_animationApp.swift; sourceTree = "<group>"; };
 		1D9759A228B2F9D4007171B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				1D9B9F682918F6A300744BDB /* GalaxyView.swift */,
 				1D9759A228B2F9D4007171B9 /* Assets.xcassets */,
 				1D9759A428B2F9D4007171B9 /* Preview Content */,
+				1D27A0412921F3ED00443893 /* PageView.swift */,
 			);
 			path = "swiftui-animation";
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				1D9B9F692918F6A300744BDB /* GalaxyView.swift in Sources */,
 				1D97599F28B2F9D4007171B9 /* Swiftui_animationApp.swift in Sources */,
+				1D27A0422921F3ED00443893 /* PageView.swift in Sources */,
 				1D9759AD28B2F9FC007171B9 /* SlideButton.swift in Sources */,
 				1D9B9F6B291CD73800744BDB /* FadePreview.swift in Sources */,
 				1D9B9F672918A3F700744BDB /* BreathEffectView.swift in Sources */,
